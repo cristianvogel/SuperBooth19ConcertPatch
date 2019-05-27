@@ -5,5 +5,7 @@ Watch me try and control it live on stage at SuperBooth 19 https://www.youtube.c
  
 Patch annotated and generated using https://github.com/SpektroAudio/Patchbook 
 
+ModularGrid rack at: https://www.modulargrid.net/e/racks/view/925983
+
 ![patch_graph]( /Vogel_SuperBooth19a.png )
 ![ref_photo]( /IMG_1228.jpg )
